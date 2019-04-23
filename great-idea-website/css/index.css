@@ -134,6 +134,10 @@ text-align: center;
 	width: 32%;
 }
 
+.contact{
+	padding-top: 30px;
+}
+
 .address{
 padding-bottom: 20px;
 }
@@ -144,4 +148,12 @@ padding-bottom: 20px;
 
 .phone{
 	padding-bottom: 20px;
+}
+
+footer{
+	margin: 0 auto;
+}
+
+footer p {
+text-align: center;
 }
