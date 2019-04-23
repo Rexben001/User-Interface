@@ -133,3 +133,15 @@ text-align: center;
 	display: inline-block;
 	width: 32%;
 }
+
+.address{
+padding-bottom: 20px;
+}
+
+.address > span{
+	display: block;
+}
+
+.phone{
+	padding-bottom: 20px;
+}
