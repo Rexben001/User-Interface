@@ -86,16 +86,19 @@ section{
 	padding: 50px;
 }
 
+.primary_content{
+	padding-bottom: 70px;
+}
+
 .innovation{
 	display: inline-block;
 	width: 57%;
 	text-align: center;
 }
 
-.innovation > p{
+.innovation > h1{
 	font-size: 6rem;
 	text-transform: uppercase;
-	font-style: italic;
 }
 
 .innovation p:nth-child(2){
@@ -110,4 +113,23 @@ text-align: center;
 .round-image{
 	display: inline-block;
 	width: 35%;
+}
+
+.secondary_content{
+	padding: 20px 0;
+}
+
+.features, .about{
+	display: inline-block;
+	width: 48%;
+}
+
+.secondary_content img{
+	width: 100%;
+	padding: 30px 0;
+}
+
+.services, .product, .vision{
+	display: inline-block;
+	width: 32%;
 }
