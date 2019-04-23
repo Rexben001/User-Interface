@@ -88,9 +88,26 @@ section{
 
 .innovation{
 	display: inline-block;
-	font-size: 3rem;
+	width: 57%;
+	text-align: center;
+}
+
+.innovation > p{
+	font-size: 6rem;
+	text-transform: uppercase;
+	font-style: italic;
 }
 
 .innovation p:nth-child(2){
 text-align: center;
+}
+
+.innovation button{
+	padding: 10px 20px;
+	font-size: 30px;
+}
+
+.round-image{
+	display: inline-block;
+	width: 35%;
 }
